@@ -1,0 +1,6 @@
+.cache
+*~
+/bin/
+/gen/
+/proguard_cache/
+/libs/scala_library.min.jar
